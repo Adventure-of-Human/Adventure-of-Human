@@ -1,2 +1,3 @@
---ÀÌ°ÍÀº ÀÌÁöÈÆÀÌ ÀÛ¼ºÇÑ fighrers.sqlÀÇ ½ÃÀÛÀÔ´Ï´Ù--
+--ï¿½Ì°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Û¼ï¿½ï¿½ï¿½ fighrers.sqlï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½--
 --test commit--
+ã…‡ëž‘
