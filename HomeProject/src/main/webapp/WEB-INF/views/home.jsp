@@ -9,7 +9,7 @@
 	Hello world!  
 </h1>
 
-<p>test</p>
+<p>test ver.Driftingboat</p>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
