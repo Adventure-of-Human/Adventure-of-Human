@@ -11,6 +11,20 @@
 
 <p>test ver.Driftingboat</p>
 
+<nav>
+Driftingboat
+</nav>
+
+
+<main>
+
+</main>
+
+
+
+
+
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
