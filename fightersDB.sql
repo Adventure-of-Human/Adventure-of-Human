@@ -1,0 +1,2 @@
+--이것은 이지훈이 작성한 fighrers.sql의 시작입니다--
+--test commit--
